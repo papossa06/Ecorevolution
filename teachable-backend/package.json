@@ -1,0 +1,17 @@
+{
+  "name": "teachable-render",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "@tensorflow/tfjs-node": "^4.17.0",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.32.6"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
